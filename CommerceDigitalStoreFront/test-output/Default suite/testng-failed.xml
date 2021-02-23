@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.Sheercover.QA.Scripts.sc_5pcKit_LightShade_90Supply_SameAsBilling">
+        <methods>
+          <include name="verifyPlaceAnOrder_5PcKit_LightShade_90Supply_SameAsBilling"/>
+          <include name="Open_Site_Page"/>
+          <include name="enter_sameAs_Billing"/>
+          <include name="afterTest"/>
+          <include name="takescreenShot"/>
+          <include name="verifyPageTitle"/>
+        </methods>
+      </class> <!-- com.Sheercover.QA.Scripts.sc_5pcKit_LightShade_90Supply_SameAsBilling -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
